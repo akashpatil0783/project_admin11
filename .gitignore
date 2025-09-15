@@ -1,0 +1,19 @@
+﻿################################################################################
+# This .gitignore file was automatically created by Microsoft(R) Visual Studio.
+################################################################################
+
+/Dashboredtemplate.sln
+
+*.dll
+*.exe
+*.obj
+*.pdb
+*.cache
+
+bin/
+obj/
+.vs/
+*.user
+*.dbmdl
+*.jfm
+*.log
